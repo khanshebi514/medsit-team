@@ -33,9 +33,9 @@
                 </div>
 
                 <div class="justify-self-center md:justify-self-end">
-                    <div class="w-[300px] rounded-t-2xl">
+                    <div class="w-[300px] sm:w-[350px] md:w-[400px] rounded-t-2xl">
                         <img src="{{Vite::asset('resources/images/Frame-1122.png')}}" alt="this is image of a dot bg"
-                            class=" object-cover w-full" />
+                            class=" object-cover w-full " />
                     </div>
                 </div>
             </div>

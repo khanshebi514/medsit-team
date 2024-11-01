@@ -19,7 +19,7 @@
 <div class="w-[300px] sm:w-[350px] md:w-[380px] h-[380px] " style="background-image: url('{{ asset('images/slider/Subtract.png') }}');background-size: 100% 100%;;background-repeat:no-repeat">
     <div class="relative">
         <div
-            class="bg-white drop-shadow rounded-xl w-[50px] h-[60px] sm:w-[55px] md:w-[60px] sm:h-[60px] flex justify-center items-center border-[1px] border-primary absolute -left-1 top-1">
+            class="bg-white drop-shadow rounded-xl w-[50px] h-[60px] sm:w-[55px] md:w-[60px] sm:h-[60px] md:h-[65px] flex justify-center items-center border-[1px] border-primary absolute -left-1 top-1 md:top-0">
             <img src="{{Vite::asset($iconUrl)}}" alt="" class="">
         </div>
 
