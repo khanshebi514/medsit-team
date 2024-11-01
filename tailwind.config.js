@@ -11,9 +11,12 @@ export default {
     ],
     theme: {
         extend: {
-            fontFamily: {
-                sans: ['Figtree', ...defaultTheme.fontFamily.sans],
-            },
+            colors:{
+                'primary-text':"#4b4f58",
+                'primary':'#273775',
+                'bg-gray':'#f4f6fc',
+                'pink-web':'#FC5D61',
+            }
         },
     },
     plugins: [],
